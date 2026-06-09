@@ -1,0 +1,42 @@
+# Geotechnical Engineering — Quebec City
+
+> Geotechnical engineering services in Quebec City, Canada.
+
+## Services
+- [Anchors](https://quebec-city.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://quebec-city.geotechnical-engineering.org/atterberg-limits/)
+- [Cpt Test](https://quebec-city.geotechnical-engineering.org/cpt-test/)
+- [Deep Excavations](https://quebec-city.geotechnical-engineering.org/deep-excavations/)
+- [Excavations](https://quebec-city.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://quebec-city.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://quebec-city.geotechnical-engineering.org/footings/)
+- [Foundations](https://quebec-city.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://quebec-city.geotechnical-engineering.org/geophysics/)
+- [Grain Size](https://quebec-city.geotechnical-engineering.org/grain-size/)
+- [Ground Improvement](https://quebec-city.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://quebec-city.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://quebec-city.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://quebec-city.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://quebec-city.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://quebec-city.geotechnical-engineering.org/laboratory/)
+- [Piles](https://quebec-city.geotechnical-engineering.org/piles/)
+- [Resistivity](https://quebec-city.geotechnical-engineering.org/resistivity/)
+- [Rigid Pavement](https://quebec-city.geotechnical-engineering.org/rigid-pavement/)
+- [Road Geotechnics](https://quebec-city.geotechnical-engineering.org/road-geotechnics/)
+- [Seismic](https://quebec-city.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://quebec-city.geotechnical-engineering.org/seismic-isolation/)
+- [Seismic Refraction](https://quebec-city.geotechnical-engineering.org/seismic-refraction/)
+- [Slopes](https://quebec-city.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://quebec-city.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://quebec-city.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://quebec-city.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://quebec-city.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://quebec-city.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://quebec-city.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://quebec-city.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Quebec City, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
